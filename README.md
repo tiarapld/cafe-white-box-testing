@@ -6,12 +6,12 @@ Selamat datang di repositori tugas kelompok kami! Proyek ini merupakan bagian da
 
 ## 👥 Tim Kelompok 7
 
-| ☕ No | 🧑‍💻 Nama Anggota                     | 🎓 NIM           | 🔍 Tugas Pengujian         |
-|------|----------------------------------------|------------------|----------------------------|
-| 1    | Abdul Aziz                             | 20221310019      | ✅ Data Flow Testing       |
-| 2    | Iqbal Yudiana                          | 20221310020      | ✅ Desk Checking           |
-| 3    | Tiara Putri Latifani Dianata           | 20221310086      | ✅ Code Walkthrough        |
-| 4    | [Nama Anggota 4]                       | [NIM Anggota 4]  | ✅ Control Flow Testing    |
+| ☕ No | 🧑‍💻 Nama Anggota             | 🎓 NIM      | 🔍 Tugas Pengujian                                                                     |
+|------|------------------------------|-------------|----------------------------------------------------------------------------------------|
+| 1    | Abdul Aziz                   | 20221310019 |                                                                                        |
+| 2    | Iqbal Yudiana                | 20221310020 |                                                                                        |
+| 3    | Tiara Putri Latifani Dianata | 20221310086 | ✅ Data Flow Testing<br>✅ Desk Checking<br>✅ Code Walkthrough<br>✅ Control Flow Testing |
+| 4    | Arya Abdul Mughni            | 20221310001 |                                                                                        |
 
 ---
 
@@ -29,12 +29,12 @@ Selamat datang di repositori tugas kelompok kami! Proyek ini merupakan bagian da
 
 Pengujian white-box dilakukan dengan pendekatan internal terhadap logika dan struktur kode melalui tahapan berikut:
 
-| 🍵 Tahapan              | 🔸 Sub-Tahapan         | 📌 Status | 👤 Penanggung Jawab          |
-|-------------------------|------------------------|-----------|-------------------------------|
-| Desk Checking           | —                      | ✅        | Iqbal Yudiana                 |
-| Code Walkthrough        | Formal Inspection      | ✅        | Tiara Putri Latifani Dianata |
-| Control Flow Testing    | Basic Path Testing     | ✅        | [Nama Anggota 4]             |
-| Data Flow Testing       | Loop Testing           | ✅        | Abdul Aziz                   |
+| 🍵 Tahapan            | 🔸 Sub-Tahapan       | 📌 Status | 👤 Penanggung Jawab            |
+|-----------------------|----------------------|-----------|-------------------------------|
+| Desk Checking         | —                    | ✅        | Tiara Putri Latifani Dianata  |
+| Code Walkthrough      | Formal Inspection    | ✅        | Tiara Putri Latifani Dianata  |
+| Control Flow Testing  | Basic Path Testing   | ✅        | Tiara Putri Latifani Dianata  |
+| Data Flow Testing     | Loop Testing         | ✅        | Tiara Putri Latifani Dianata  |
 
 ---
 
@@ -42,6 +42,3 @@ Pengujian white-box dilakukan dengan pendekatan internal terhadap logika dan str
 
 ☕ Klik tautan berikut untuk mengakses source code aplikasi:  
 🔗 [https://github.com/azizthea/kelompok7](https://github.com/azizthea/kelompok7)
-
----
-
