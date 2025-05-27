@@ -11,7 +11,7 @@ Selamat datang di repositori tugas kelompok kami! Proyek ini merupakan bagian da
 | 1    | Abdul Aziz                   | 20221310019 |                                                                                        |
 | 2    | Iqbal Yudiana                | 20221310020 |                                                                                        |
 | 3    | Tiara Putri Latifani Dianata | 20221310086 | ✅ Data Flow Testing<br>✅ Desk Checking<br>✅ Code Walkthrough<br>✅ Control Flow Testing |
-| 4    | Arya Abdul Mughni            | 20221310001 |                                                                                        |
+| 4    | Miftah            | 20221310001 |                                                                                        |
 
 ---
 
